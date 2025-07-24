@@ -1,1 +1,4 @@
-algunos ejercicios del curso, introducction to 
+# ········______::::··"""*¨¿?===)(()···!""·$%$%&&//(()!"·$%&/()=ºººªºªªª
+
+
+algunos ejercicios del curso, introducction to computer science
