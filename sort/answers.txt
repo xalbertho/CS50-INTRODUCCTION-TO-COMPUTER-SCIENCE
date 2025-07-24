@@ -1,0 +1,10 @@
+sort1 uses: Bubble Sort
+How do you know?: Fue el mas tardado
+
+sort2 uses: Merge Sort
+
+How do you know?: El ordenamiento es el mas rapido
+
+sort3 uses: Selection Sort
+
+How do you know?: Tarda un poco menos que sort1 pero mas que sort2
